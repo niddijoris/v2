@@ -1,0 +1,7 @@
+pydub
+streamlit
+google-generativeai
+colorama
+imageio-ffmpeg
+ffmpeg-python
+ffmpeg 
